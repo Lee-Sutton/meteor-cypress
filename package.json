@@ -1,6 +1,6 @@
 {
   "name": "meteor-cypress",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Command line utilities for admin and CRUD operations on the meteor mongo database. Intended to be used with cypress IO's exec methods for e2e testing",
   "main": "app.js",
   "bin": "./app.js",
