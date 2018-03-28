@@ -1,0 +1,23 @@
+{
+  "name": "mongo-cypress",
+  "version": "1.0.0",
+  "description": "Command line utilities for admin and CRUD operations on a mongo database. Intended to be used with cypress IO's exec methods for e2e testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Mocha",
+    "Mongo",
+    "cypressIO"
+  ],
+  "author": "Lee Sutton",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^3.0.5"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.5"
+  }
+}
